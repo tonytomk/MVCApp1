@@ -1,0 +1,12 @@
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Trainings\MVC-web\MVCApp1\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
